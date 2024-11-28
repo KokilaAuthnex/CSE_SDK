@@ -3600,385 +3600,385 @@
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2415,
+      "offset": 1572,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2450,
+      "offset": 1607,
       "length": 10,
       "value": "\"V1.00.06\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2492,
+      "offset": 1649,
       "length": 66,
       "value": "\"f5535946a3e2b5b43f936f028571813107d006a78e5ced97750cec673f148ce5\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2596,
+      "offset": 1753,
       "length": 4,
       "value": "\"V2\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2654,
+      "offset": 1811,
       "length": 15,
       "value": "\"\/Registration\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2702,
+      "offset": 1859,
       "length": 9,
       "value": "\"\/Notary\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2744,
+      "offset": 1901,
       "length": 10,
       "value": "\"\/Granter\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2787,
+      "offset": 1944,
       "length": 17,
       "value": "\"\/Deregistartion\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2837,
+      "offset": 1994,
       "length": 17,
       "value": "\"\/Authentication\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2910,
+      "offset": 2067,
       "length": 9,
       "value": "\"\/Client\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2952,
+      "offset": 2109,
       "length": 7,
       "value": "\"\/User\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3014,
+      "offset": 2171,
       "length": 8,
       "value": "\"\/Token\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3065,
+      "offset": 2222,
       "length": 18,
       "value": "\"\/EnrollmentToken\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3116,
+      "offset": 2273,
       "length": 16,
       "value": "\"\/DisenrollUser\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3165,
+      "offset": 2322,
       "length": 14,
       "value": "\"\/SignRequest\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3212,
+      "offset": 2369,
       "length": 15,
       "value": "\"\/EnrollmentQR\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3260,
+      "offset": 2417,
       "length": 16,
       "value": "\"\/EnrollmentKey\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3323,
+      "offset": 2480,
       "length": 29,
       "value": "\"\/SessionAuthenticationAsync\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3392,
+      "offset": 2549,
       "length": 23,
       "value": "\"\/EnrollmentValidation\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3458,
+      "offset": 2615,
       "length": 26,
       "value": "\"\/EnrollmentAuthorization\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3511,
+      "offset": 2668,
       "length": 10,
       "value": "\"\/LoginQR\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3549,
+      "offset": 2706,
       "length": 11,
       "value": "\"\/LoginKey\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3601,
+      "offset": 2758,
       "length": 24,
       "value": "\"\/SessionAuthentication\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3658,
+      "offset": 2815,
       "length": 16,
       "value": "\"\/KeyValidation\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3706,
+      "offset": 2863,
       "length": 16,
       "value": "\"\/Authorization\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3777,
+      "offset": 2934,
       "length": 34,
       "value": "\"\/TwoFASessionAuthenticationAsync\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3838,
+      "offset": 2995,
       "length": 11,
       "value": "\"\/PreCheck\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3881,
+      "offset": 3038,
       "length": 15,
       "value": "\"\/SessionToken\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3924,
+      "offset": 3081,
       "length": 12,
       "value": "\"\/Authorize\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3974,
+      "offset": 3131,
       "length": 20,
       "value": "\"\/ValidateSecurePin\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4019,
+      "offset": 3176,
       "length": 9,
       "value": "\"\/Reject\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4089,
+      "offset": 3246,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4117,
+      "offset": 3274,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4148,
+      "offset": 3305,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4236,
+      "offset": 3393,
       "length": 7,
       "value": "\"basic\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4287,
+      "offset": 3444,
       "length": 8,
       "value": "\"bearer\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4360,
+      "offset": 3517,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4413,
+      "offset": 3570,
       "length": 14,
       "value": "\"Access-Token\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4497,
+      "offset": 3654,
       "length": 11,
       "value": "\"X-Pin-SSL\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4546,
+      "offset": 3703,
       "length": 12,
       "value": "\"X-Pin-Sign\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4603,
+      "offset": 3760,
       "length": 12,
       "value": "\"X-SSL-Cert\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4651,
+      "offset": 3808,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4692,
+      "offset": 3849,
       "length": 77,
       "value": "\"AuthXSDK, iOS, \""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4733,
+      "offset": 3890,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4768,
+      "offset": 3925,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4829,
+      "offset": 3986,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4880,
+      "offset": 4037,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4928,
+      "offset": 4085,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 4972,
+      "offset": 4129,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5063,
+      "offset": 4220,
       "length": 21,
       "value": "\"registration_status\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5133,
+      "offset": 4290,
       "length": 32,
       "value": "\"authnex_urbanairship_pushtoken\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5201,
+      "offset": 4358,
       "length": 18,
       "value": "\"authnex_username\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5260,
+      "offset": 4417,
       "length": 15,
       "value": "\"security_type\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5306,
+      "offset": 4463,
       "length": 14,
       "value": "\"authnex_udid\""
     },
     {
       "filePath": "\/Users\/kokila\/Documents\/Projects\/Github\/CSE\/authnexsdk-ios\/authxSDK\/NetworkManager\/AuthnexEndpointConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5386,
+      "offset": 4543,
       "length": 14,
       "value": "\"+94114500800\""
     },
