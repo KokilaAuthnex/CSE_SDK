@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 
   s.dependency 'JOSESwift', '2.4.0'
   s.dependency 'CertificateSigningRequest', '~> 1.26.0'
-  s.dependency 'Alamofire'
+  s.dependency 'Alamofire', '5.10.1'
   s.dependency 'SwiftyJSON', '~> 4.0'
   s.dependency 'SwCrypt'
   s.dependency 'SwiftKeychainWrapper', '~> 3.4.0'
